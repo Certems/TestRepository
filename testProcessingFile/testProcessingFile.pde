@@ -1,5 +1,5 @@
 void setup(){
-  //pass
+  fullScreen();
 }
 void draw(){
   //pass
