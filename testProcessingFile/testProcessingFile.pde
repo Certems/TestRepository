@@ -2,5 +2,6 @@ void setup(){
   fullScreen();
 }
 void draw(){
-  //pass
+  background(160,160,160);
+  ellipse(width/2, height/2, 10, 10);
 }
