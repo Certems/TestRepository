@@ -1,8 +1,8 @@
 class test1{
-  //pass
-  
-  test1(){
-    //pass
+  int num;
+
+  test1(int number){
+    num = number;
   }
   
   //pass
