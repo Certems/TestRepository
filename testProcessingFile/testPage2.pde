@@ -1,9 +1,11 @@
 class test1{
-  int num;
+  int num;  //Description
 
   test1(int number){
     num = number;
   }
   
-  //pass
+  void display(){
+    //pass
+  }
 }
